@@ -1,11 +1,13 @@
 name                = "did-poulin-score-poller"
 main                = "src/index.ts"
 compatibility_date  = "2025-05-15"
+workers_dev         = true
+preview_urls        = false
 
 [triggers]
 crons = ["*/5 * * * *"]
 
 [vars]
-SUPABASE_URL = "https://YOUR_PROJECT_REF.supabase.co"
+# SUPABASE_URL is set at deploy time via wrangler deploy --var — see deploy.yml
 # SUPABASE_SECRET_KEY is a secret — set via:
 #   wrangler secret put SUPABASE_SECRET_KEY
