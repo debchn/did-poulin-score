@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+
+# Supabase
+supabase/.branches/
+supabase/.temp/
+
+# Wrangler
+.wrangler/
+workers/poller/.wrangler/
+
+# OS
+.DS_Store

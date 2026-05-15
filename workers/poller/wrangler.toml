@@ -1,0 +1,11 @@
+name                = "did-poulin-score-poller"
+main                = "src/index.ts"
+compatibility_date  = "2025-05-15"
+
+[triggers]
+crons = ["*/5 * * * *"]
+
+[vars]
+SUPABASE_URL = "https://YOUR_PROJECT_REF.supabase.co"
+# SUPABASE_SECRET_KEY is a secret — set via:
+#   wrangler secret put SUPABASE_SECRET_KEY
