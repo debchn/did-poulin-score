@@ -11,6 +11,8 @@ supabase/.temp/
 # Wrangler
 .wrangler/
 workers/poller/.wrangler/
+workers/roster-sync/.wrangler/
+.dev.vars
 
 # OS
 .DS_Store

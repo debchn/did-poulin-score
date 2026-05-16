@@ -117,4 +117,4 @@ Note: `properties.*` values are string `"0"`/`"1"`, not booleans. Parse accordin
 - Ask before making non-obvious architectural decisions. Don't silently introduce new dependencies or services.
 - When something requires a one-time dashboard step (creating the Supabase project, generating an OAuth app in Google Cloud, generating a Cloudflare API token), document it in `SETUP.md` rather than burying it in chat.
 - Prefer SQL migrations over ad-hoc dashboard schema changes. Every schema change is a new timestamped file in `supabase/migrations/`.
-- Keep `wrangler.toml` and `supabase/config.toml` readable — they're part of the interview story.
+- Keep `wrangler.toml` and `supabase/config.toml` readable.

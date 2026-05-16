@@ -1,0 +1,58 @@
+.page {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.search {
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  font-size: 1rem;
+}
+
+.status {
+  color: #666;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+  text-decoration: none;
+  color: inherit;
+
+  &:hover {
+    background: #f4f4f5;
+  }
+}
+
+.logo {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.name {
+  font-weight: 500;
+  flex: 1;
+}
+
+.meta {
+  color: #666;
+  font-size: 0.875rem;
+}

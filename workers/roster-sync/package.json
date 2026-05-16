@@ -1,5 +1,5 @@
 {
-  "name": "did-poulin-score-poller",
+  "name": "did-poulin-score-roster-sync",
   "version": "0.0.1",
   "private": true,
   "scripts": {

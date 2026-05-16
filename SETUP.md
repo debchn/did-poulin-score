@@ -19,7 +19,7 @@ supabase login
 
 1. Go to [supabase.com](https://supabase.com) → **New project**.
 2. Name it `did-poulin-score`. Pick a strong DB password — save it now, you won't see it again.
-3. Note the **Project Reference ID** (20-char string in the URL: `app.supabase.com/project/<ref>`).
+3. Note the **Project Reference ID** (20-char string in the URL: `<ref>.supabase.co`).
 4. Go to **Account → Access tokens** → **Generate new token** → name it `github-actions`.
 
 Secrets to store:
@@ -47,12 +47,15 @@ Secrets to store:
    npx wrangler pages project create did-poulin-score --production-branch=main
    ```
 
-5. Set the Worker secret (run once; the workflow handles redeploys but not secret rotation):
+5. Set the Worker secrets for both workers (run once per worker; the workflow handles redeploys but not secret rotation):
    ```bash
    cd workers/poller
    echo "YOUR_SECRET_KEY" | npx wrangler secret put SUPABASE_SECRET_KEY
+
+   cd ../roster-sync
+   echo "YOUR_SECRET_KEY" | npx wrangler secret put SUPABASE_SECRET_KEY
    ```
-   Get the secret key from Supabase → **Settings → API → Secret key** (`sb_secret_...`).
+   Get the secret key from Supabase → **Settings → API → Secret key** (`sb_secret_...`). Both workers use the same value.
 
    > **Never** put the secret key in `wrangler.toml` `[vars]`, a `VITE_*` env var, or anywhere it ends up in the frontend bundle or the repo. Workers secrets are encrypted at rest and never exposed to clients.
 
@@ -91,7 +94,7 @@ This activates Google sign-in on your Supabase project.
 
 ---
 
-## 6. GitHub Actions secrets summary
+## GitHub Actions secrets summary
 
 Add all of the following at **github.com → your repo → Settings → Secrets and variables → Actions → New repository secret**:
 

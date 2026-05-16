@@ -1,0 +1,121 @@
+{
+    "GC": {
+        "Parameters": {
+            "feed": "gc",
+            "tab": "clock",
+            "game_id": "137",
+            "key": "446521baf8c38984",
+            "client_code": "pwhl",
+            "fmt": "json"
+        },
+        "Clock": {
+            "period": "3",
+            "game_clock": "00:00:00",
+            "game_date_iso_8601": "2025-01-29T19:00:00-05:00",
+            "timezone": "Canada/Eastern",
+            "timezone_short": "EST",
+            "started": "1",
+            "game_number": "39",
+            "season_id": "5",
+            "season_name": "2024-25 Regular Season",
+            "home_team": {
+                "name": "Montréal Victoire",
+                "team_id": "3",
+                "team_code": "MTL",
+                "team_nickname": "Victoire",
+                "team_city": "Montréal"
+            },
+            "visiting_team": {
+                "name": "Ottawa Charge",
+                "team_id": "5",
+                "team_code": "OTT",
+                "team_nickname": "Charge",
+                "team_city": "Ottawa"
+            },
+            "text_game_summary": "/stats/text-game-report.php?game_id=137",
+            "official_game_report": "/stats/official-game-report.php?game_id=137",
+            "home_audio_url": "",
+            "home_video_url": "",
+            "home_webcast_url": "",
+            "visiting_audio_url": "",
+            "visiting_video_url": "",
+            "visiting_webcast_url": "",
+            "tickets_url": "https://www.ticketmaster.ca/event/3100615ABB60312E",
+            "venue": "Place Bell | Laval",
+            "final": "1",
+            "status": "4",
+            "home_goal_count": "4",
+            "visiting_goal_count": "1",
+            "progress": "Final",
+            "progress_short": "Final",
+            "period_name": "3rd",
+            "home_lineup_card": "/game-lineups/pwhl/137/MTL_2025-01-29.pdf",
+            "visiting_lineup_card": "/game-lineups/pwhl/137/OTT_2025-01-29.pdf",
+            "game_lineups": "/game-lineups/pwhl/137/OTT@MTL_2025-01-29.pdf",
+            "home_audio_url_fr": "",
+            "home_video_url_fr": "",
+            "home_webcast_url_fr": "",
+            "visiting_audio_url_fr": "",
+            "visiting_video_url_fr": "",
+            "visiting_webcast_url_fr": "",
+            "tickets_url_fr": "https://www.ticketmaster.ca/event/3100615ABB60312E?language=fr-ca",
+            "updated": {
+                "clock": 0,
+                "meta": 0,
+                "lineup": 0,
+                "goals": 0,
+                "penalties": 0,
+                "penaltyshots": 0,
+                "shots": 0,
+                "hits": 0,
+                "faceoffs": 0,
+                "pxp": 0,
+                "shootouts": 0,
+                "h2h": 0,
+                "pxpverbose": 0
+            },
+            "scoring": {
+                "home": {
+                    "1": "0",
+                    "2": "3",
+                    "3": "1"
+                },
+                "visiting": {
+                    "1": "1",
+                    "2": "0",
+                    "3": "0"
+                }
+            },
+            "shots_on_goal": {
+                "home": {
+                    "1": 6,
+                    "2": 15,
+                    "3": 12
+                },
+                "visiting": {
+                    "1": 15,
+                    "2": 7,
+                    "3": 10
+                }
+            },
+            "power_play": {
+                "total": {
+                    "home": "3",
+                    "visiting": "1"
+                },
+                "goals": {
+                    "home": "1",
+                    "visiting": "0"
+                }
+            },
+            "fow": {
+                "home": 28,
+                "visiting": 31
+            },
+            "hits": {
+                "home": 8,
+                "visiting": 9
+            }
+        }
+    }
+}

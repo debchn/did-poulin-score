@@ -1,0 +1,50 @@
+{
+    "SiteKit": {
+        "Parameters": {
+            "feed": "modulekit",
+            "view": "player",
+            "category": "profile",
+            "player_id": "32",
+            "key": "446521baf8c38984",
+            "client_code": "pwhl",
+            "league_id": "1",
+            "season_id": "9"
+        },
+        "Player": {
+            "first_name": "Laura",
+            "last_name": "Stacey",
+            "jersey_number": "7",
+            "most_recent_team_id": "3",
+            "most_recent_team_name": "Montréal Victoire",
+            "most_recent_team_code": "MTL",
+            "division": "PWHL",
+            "active": "1",
+            "rookie": "0",
+            "position": "F",
+            "height": "5'10\"",
+            "weight": "0",
+            "birthdate": "1994-05-05",
+            "shoots": "R",
+            "catches": "",
+            "bio": "<ul><li><p>Olympic Participation:<strong> </strong>2 (2018, 2022)&nbsp;</p></li><li><p>Olympic Medals (G/S/B):<strong> </strong>1 G, 1 S&nbsp;</p></li><li><p>World Championship Participation: 6 (2017, 2019, 2021, 2022, 2023, 2024)&nbsp;</p></li></ul><ul><li><p>World Championship Medals (G/S/B):<strong> </strong>3 G, 2 S, 1 B&nbsp;</p></li></ul><ul><li><p>Scored her first IIHF World Championship goal in 2019 during Canada&rsquo;s quarterfinal victory over Germany, contributing to the team&rsquo;s bronze medal finish.&nbsp;</p></li></ul><ul><li><p>Played in the PWHPA from 2019-2023, winning the Secret Cup&reg; with Team Bauer in 2021&nbsp;</p></li></ul><ul><li><p>Finished fourth in PWHPA in 2022-23 with 21 points (9G, 12A) in 20 GP with Team adidas&nbsp;</p></li></ul><ul><li><p>Played for the Dartmouth College Big Green in the NCAA, earning Rookie of the Year honors in 2012-2013.&nbsp;</p></li></ul><ul><li><p>In her third season, tied for the team lead in points and was named an Ivy League Honorable Mention&nbsp;</p></li></ul><ul><li><p>Served as the Big Green&rsquo;s captain in her final college season, leading the team in points, earning Team MVP honors, and being selected to the Ivy League First All-Star Team.&nbsp;</p></li></ul><ul><li><p>Won gold at the Nations Cup in 2015 and 2016 with Canada&rsquo;s National Development Team.&nbsp;</p></li></ul>",
+            "name": "Laura Stacey",
+            "primary_image": "https://assets.leaguestat.com/pwhl/240x240/32.jpg",
+            "birthtown": "Kleinburg",
+            "birthprov": "Ontario",
+            "birthcntry": "Canada",
+            "hometown": "Kleinburg, ON",
+            "homeprov": "Ontario",
+            "homecntry": "",
+            "draft": [],
+            "draft_type": "extended",
+            "careerhigh": "",
+            "current_team": ""
+        },
+        "Copyright": {
+            "required_copyright": "Official statistics provided by Professional Women's Hockey League",
+            "required_link": "http://leaguestat.com",
+            "powered_by": "Powered by HockeyTech.com",
+            "powered_by_url": "http://hockeytech.com"
+        }
+    }
+}
