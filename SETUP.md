@@ -71,7 +71,9 @@ Secrets to store:
 ## 3. Google OAuth app
 
 1. Go to [console.cloud.google.com](https://console.cloud.google.com) → create a project (or reuse one).
-2. **APIs & Services → OAuth consent screen** → External → fill in app name + your email.
+2. **APIs & Services → OAuth consent screen** → External → fill in:
+   - **App name:** `Did Poulin Score` ← must be set, or Google shows the supabase.co domain on the consent screen
+   - **User support email:** your email
 3. **APIs & Services → Credentials → Create Credentials → OAuth client ID**.
    - Application type: **Web application**.
    - Authorized redirect URI: `https://<supabase-project-ref>.supabase.co/auth/v1/callback`
