@@ -14,7 +14,10 @@ function url(params: Record<string, string | number>): string {
 async function fetchJson<T>(u: string): Promise<T> {
   const res = await fetch(u);
   if (!res.ok) throw new Error(`HockeyTech ${res.status}: ${u}`);
-  return res.json() as Promise<T>;
+  const text = await res.text();
+  // API always wraps response in bare parens: ({...}) or ([...])
+  const json = text.startsWith("(") ? text.slice(1, -1) : text;
+  return JSON.parse(json) as T;
 }
 
 // ── Types matching the API shapes we care about ────────────────────────────────
@@ -47,10 +50,10 @@ export interface HtPlayer {
 // ── API calls ──────────────────────────────────────────────────────────────────
 
 export async function fetchCurrentSeasonId(): Promise<number> {
-  const data = await fetchJson<{ SiteKit: { Bootstrap: { currentSeason: string } } }>(
+  const data = await fetchJson<{ current_season_id: string }>(
     url({ feed: "statviewfeed", view: "bootstrap", season: "latest", pageName: "scorebar", site_id: 0, league_id: "", lang: "en" })
   );
-  return parseInt(data.SiteKit.Bootstrap.currentSeason, 10);
+  return parseInt(data.current_season_id, 10);
 }
 
 export async function fetchTeams(seasonId: number): Promise<HtTeam[]> {
