@@ -6,6 +6,10 @@ export interface Env {
 }
 
 export default {
+  async fetch(): Promise<Response> {
+    return new Response("roster-sync worker — trigger via cron only", { status: 405 });
+  },
+
   async scheduled(_event: ScheduledEvent, env: Env, _ctx: ExecutionContext): Promise<void> {
     const headers = {
       "apikey": env.SUPABASE_SECRET_KEY,
