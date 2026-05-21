@@ -1,0 +1,4996 @@
+[
+  {
+    "event": "goalie_change",
+    "details": {
+      "goalieComingIn": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "goalieGoingOut": null,
+      "team_id": "5",
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "0:00"
+    }
+  },
+  {
+    "event": "goalie_change",
+    "details": {
+      "goalieComingIn": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "goalieGoingOut": null,
+      "team_id": "3",
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "0:00"
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "visitingPlayer": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "0:00",
+      "xLocation": 300,
+      "yLocation": 150,
+      "homeWin": "0"
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "visitingPlayer": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "0:12",
+      "xLocation": 397,
+      "yLocation": 273,
+      "homeWin": "0"
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "visitingPlayer": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "1:27",
+      "xLocation": 397,
+      "yLocation": 273,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 128,
+        "firstName": "Kaitlin",
+        "lastName": "Willoughby",
+        "jerseyNumber": 19,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/128.jpg"
+      },
+      "blocker": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "1",
+        "shortName": null,
+        "longName": "1st"
+      },
+      "time": "1:47",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 446,
+      "yLocation": 129
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 79,
+        "firstName": "Maggie",
+        "lastName": "Flaherty",
+        "jerseyNumber": 91,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/79.jpg"
+      },
+      "blocker": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "1",
+        "shortName": null,
+        "longName": "1st"
+      },
+      "time": "1:58",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 413,
+      "yLocation": 89
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 101,
+        "firstName": "Alexa",
+        "lastName": "Vasko",
+        "jerseyNumber": 10,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/101.jpg"
+      },
+      "visitingPlayer": {
+        "id": 39,
+        "firstName": "Alexandra",
+        "lastName": "Labelle",
+        "jerseyNumber": 13,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/39.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "2:14",
+      "xLocation": 300,
+      "yLocation": 150,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "blocker": {
+        "id": 79,
+        "firstName": "Maggie",
+        "lastName": "Flaherty",
+        "jerseyNumber": 91,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/79.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "1",
+        "shortName": null,
+        "longName": "1st"
+      },
+      "time": "3:26",
+      "shotQuality": "Quality blocked",
+      "shotType": "Default",
+      "xLocation": 105,
+      "yLocation": 195
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 219,
+        "firstName": "Stephanie",
+        "lastName": "Markowski",
+        "jerseyNumber": 6,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/219.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "3:35",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 207,
+      "yLocation": 166
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "onPlayer": {
+        "id": 201,
+        "firstName": "Lina",
+        "lastName": "Ljungblom",
+        "jerseyNumber": 25,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/201.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "4:37",
+      "xLocation": 517,
+      "yLocation": 293
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "visitingPlayer": {
+        "id": 201,
+        "firstName": "Lina",
+        "lastName": "Ljungblom",
+        "jerseyNumber": 25,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/201.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "4:44",
+      "xLocation": 500,
+      "yLocation": 94,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 242,
+        "firstName": "Rory",
+        "lastName": "Guilday",
+        "jerseyNumber": 5,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/242.jpg"
+      },
+      "onPlayer": {
+        "id": 201,
+        "firstName": "Lina",
+        "lastName": "Ljungblom",
+        "jerseyNumber": 25,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/201.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "4:57",
+      "xLocation": 387,
+      "yLocation": 17
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 79,
+        "firstName": "Maggie",
+        "lastName": "Flaherty",
+        "jerseyNumber": 91,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/79.jpg"
+      },
+      "blocker": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "1",
+        "shortName": null,
+        "longName": "1st"
+      },
+      "time": "5:10",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 415,
+      "yLocation": 240
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 219,
+        "firstName": "Stephanie",
+        "lastName": "Markowski",
+        "jerseyNumber": 6,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/219.jpg"
+      },
+      "blocker": {
+        "id": 32,
+        "firstName": "Laura",
+        "lastName": "Stacey",
+        "jerseyNumber": 7,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/32.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "1",
+        "shortName": null,
+        "longName": "1st"
+      },
+      "time": "6:56",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 205,
+      "yLocation": 27
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 98,
+        "firstName": "Maureen",
+        "lastName": "Murphy",
+        "jerseyNumber": 21,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/98.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "7:40",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 417,
+      "yLocation": 231
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "8:38",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 553,
+      "yLocation": 84
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "3",
+      "player": {
+        "id": 157,
+        "firstName": "Catherine",
+        "lastName": "Dubois",
+        "jerseyNumber": 28,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/157.jpg"
+      },
+      "onPlayer": {
+        "id": 242,
+        "firstName": "Rory",
+        "lastName": "Guilday",
+        "jerseyNumber": 5,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/242.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "9:09",
+      "xLocation": 142,
+      "yLocation": 9
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "3",
+      "player": {
+        "id": 274,
+        "firstName": "Nat\u00e1lie",
+        "lastName": "Ml\u00fdnkov\u00e1",
+        "jerseyNumber": 96,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/274.jpg"
+      },
+      "onPlayer": {
+        "id": 101,
+        "firstName": "Alexa",
+        "lastName": "Vasko",
+        "jerseyNumber": 10,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/101.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "9:19",
+      "xLocation": 216,
+      "yLocation": 15
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "3",
+      "player": {
+        "id": 320,
+        "firstName": "Nadia",
+        "lastName": "Mattivi",
+        "jerseyNumber": 93,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/320.jpg"
+      },
+      "onPlayer": {
+        "id": 118,
+        "firstName": "Emma",
+        "lastName": "Greco",
+        "jerseyNumber": 25,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/118.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "9:41",
+      "xLocation": 590,
+      "yLocation": 152
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 53,
+        "firstName": "Emily",
+        "lastName": "Clark",
+        "jerseyNumber": 26,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/53.jpg"
+      },
+      "onPlayer": {
+        "id": 32,
+        "firstName": "Laura",
+        "lastName": "Stacey",
+        "jerseyNumber": 7,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/32.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "10:02",
+      "xLocation": 505,
+      "yLocation": 284
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "10:17",
+      "isGoal": false,
+      "shotQuality": "Quality on net",
+      "shotType": "Default",
+      "xLocation": 481,
+      "yLocation": 153
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "visitingPlayer": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "10:19",
+      "xLocation": 500,
+      "yLocation": 251,
+      "homeWin": "0"
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 79,
+        "firstName": "Maggie",
+        "lastName": "Flaherty",
+        "jerseyNumber": 91,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/79.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "10:25",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 395,
+      "yLocation": 218
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "visitingPlayer": {
+        "id": 42,
+        "firstName": "Abby",
+        "lastName": "Roque",
+        "jerseyNumber": 11,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/42.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "10:29",
+      "xLocation": 397,
+      "yLocation": 273,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "visitingPlayer": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "11:19",
+      "xLocation": 500,
+      "yLocation": 94,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "3",
+      "player": {
+        "id": 199,
+        "firstName": "Dara",
+        "lastName": "Greig",
+        "jerseyNumber": 17,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/199.jpg"
+      },
+      "onPlayer": {
+        "id": 72,
+        "firstName": "Rebecca",
+        "lastName": "Leslie",
+        "jerseyNumber": 37,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/72.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "11:53",
+      "xLocation": 7,
+      "yLocation": 105
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "visitingPlayer": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "11:59",
+      "xLocation": 143,
+      "yLocation": 251,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 289,
+        "firstName": "Kathryn",
+        "lastName": "Reilly",
+        "jerseyNumber": 8,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/289.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "12:05",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 205,
+      "yLocation": 31
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "visitingPlayer": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "12:06",
+      "xLocation": 143,
+      "yLocation": 94,
+      "homeWin": "0"
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 101,
+        "firstName": "Alexa",
+        "lastName": "Vasko",
+        "jerseyNumber": 10,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/101.jpg"
+      },
+      "visitingPlayer": {
+        "id": 39,
+        "firstName": "Alexandra",
+        "lastName": "Labelle",
+        "jerseyNumber": 13,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/39.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "12:37",
+      "xLocation": 397,
+      "yLocation": 73,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "3",
+      "player": {
+        "id": 157,
+        "firstName": "Catherine",
+        "lastName": "Dubois",
+        "jerseyNumber": 28,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/157.jpg"
+      },
+      "onPlayer": {
+        "id": 101,
+        "firstName": "Alexa",
+        "lastName": "Vasko",
+        "jerseyNumber": 10,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/101.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "13:09",
+      "xLocation": 538,
+      "yLocation": 160
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 38,
+        "firstName": "Brooke",
+        "lastName": "Hobson",
+        "jerseyNumber": 11,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/38.jpg"
+      },
+      "onPlayer": {
+        "id": 42,
+        "firstName": "Abby",
+        "lastName": "Roque",
+        "jerseyNumber": 11,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/42.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "13:29",
+      "xLocation": 386,
+      "yLocation": 269
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 71,
+        "firstName": "Jocelyne",
+        "lastName": "Larocque",
+        "jerseyNumber": 3,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/71.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "13:54",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 207,
+      "yLocation": 56
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "visitingPlayer": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "13:55",
+      "xLocation": 143,
+      "yLocation": 94,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 38,
+        "firstName": "Brooke",
+        "lastName": "Hobson",
+        "jerseyNumber": 11,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/38.jpg"
+      },
+      "onPlayer": {
+        "id": 84,
+        "firstName": "Kati",
+        "lastName": "Tabin",
+        "jerseyNumber": 9,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/84.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "14:20",
+      "xLocation": 565,
+      "yLocation": 33
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "14:30",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 483,
+      "yLocation": 37
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "visitingPlayer": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "14:30",
+      "xLocation": 500,
+      "yLocation": 94,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 240,
+        "firstName": "Fanuza",
+        "lastName": "Kadirova",
+        "jerseyNumber": 71,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/240.jpg"
+      },
+      "onPlayer": {
+        "id": 320,
+        "firstName": "Nadia",
+        "lastName": "Mattivi",
+        "jerseyNumber": 93,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/320.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "14:54",
+      "xLocation": 18,
+      "yLocation": 217
+    }
+  },
+  {
+    "event": "penalty",
+    "details": {
+      "game_penalty_id": "2203",
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "15:02",
+      "againstTeam": {
+        "id": 3,
+        "name": "",
+        "city": "",
+        "nickname": "",
+        "abbreviation": "MTL",
+        "logo": ""
+      },
+      "minutes": "2.00",
+      "description": "Boarding",
+      "ruleNumber": "",
+      "takenBy": {
+        "id": 320,
+        "firstName": "Nadia",
+        "lastName": "Mattivi",
+        "jerseyNumber": 93,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/320.jpg"
+      },
+      "servedBy": {
+        "id": 320,
+        "firstName": "Nadia",
+        "lastName": "Mattivi",
+        "jerseyNumber": 93,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/320.jpg"
+      },
+      "isPowerPlay": true,
+      "isBench": false
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "visitingPlayer": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "15:02",
+      "xLocation": 143,
+      "yLocation": 94,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 71,
+        "firstName": "Jocelyne",
+        "lastName": "Larocque",
+        "jerseyNumber": 3,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/71.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "15:21",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 214,
+      "yLocation": 148
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "blocker": {
+        "id": 83,
+        "firstName": "Erin",
+        "lastName": "Ambrose",
+        "jerseyNumber": 23,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/83.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "1",
+        "shortName": null,
+        "longName": "1st"
+      },
+      "time": "15:34",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 201,
+      "yLocation": 237
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 53,
+        "firstName": "Emily",
+        "lastName": "Clark",
+        "jerseyNumber": 26,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/53.jpg"
+      },
+      "onPlayer": {
+        "id": 84,
+        "firstName": "Kati",
+        "lastName": "Tabin",
+        "jerseyNumber": 9,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/84.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "16:09",
+      "xLocation": 36,
+      "yLocation": 282
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "3",
+      "player": {
+        "id": 79,
+        "firstName": "Maggie",
+        "lastName": "Flaherty",
+        "jerseyNumber": 91,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/79.jpg"
+      },
+      "onPlayer": {
+        "id": 240,
+        "firstName": "Fanuza",
+        "lastName": "Kadirova",
+        "jerseyNumber": 71,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/240.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "16:25",
+      "xLocation": 44,
+      "yLocation": 183
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "visitingPlayer": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "16:25",
+      "xLocation": 143,
+      "yLocation": 251,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 71,
+        "firstName": "Jocelyne",
+        "lastName": "Larocque",
+        "jerseyNumber": 3,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/71.jpg"
+      },
+      "onPlayer": {
+        "id": 32,
+        "firstName": "Laura",
+        "lastName": "Stacey",
+        "jerseyNumber": 7,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/32.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "17:36",
+      "xLocation": 413,
+      "yLocation": 38
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "visitingPlayer": {
+        "id": 39,
+        "firstName": "Alexandra",
+        "lastName": "Labelle",
+        "jerseyNumber": 13,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/39.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "17:45",
+      "xLocation": 300,
+      "yLocation": 150,
+      "homeWin": "0"
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 253,
+        "firstName": "Nicole",
+        "lastName": "Gosling",
+        "jerseyNumber": 61,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/253.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "17:48",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 395,
+      "yLocation": 240
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "3",
+      "player": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "onPlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "19:15",
+      "xLocation": 39,
+      "yLocation": 270
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 242,
+        "firstName": "Rory",
+        "lastName": "Guilday",
+        "jerseyNumber": 5,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/242.jpg"
+      },
+      "blocker": {
+        "id": 201,
+        "firstName": "Lina",
+        "lastName": "Ljungblom",
+        "jerseyNumber": 25,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/201.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "1",
+        "shortName": null,
+        "longName": "1st"
+      },
+      "time": "19:17",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 211,
+      "yLocation": 30
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 286,
+        "firstName": "Peyton",
+        "lastName": "Hemp",
+        "jerseyNumber": 29,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/286.jpg"
+      },
+      "onPlayer": {
+        "id": 128,
+        "firstName": "Kaitlin",
+        "lastName": "Willoughby",
+        "jerseyNumber": 19,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/128.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "19:24",
+      "xLocation": 123,
+      "yLocation": 295
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 223,
+        "firstName": "Ronja",
+        "lastName": "Savolainen",
+        "jerseyNumber": 88,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/223.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "19:25",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 206,
+      "yLocation": 154
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 71,
+        "firstName": "Jocelyne",
+        "lastName": "Larocque",
+        "jerseyNumber": 3,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/71.jpg"
+      },
+      "onPlayer": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "period": {
+        "id": "1",
+        "shortName": "1",
+        "longName": "1st"
+      },
+      "time": "19:47",
+      "xLocation": 543,
+      "yLocation": 16
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "visitingPlayer": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "0:00",
+      "xLocation": 300,
+      "yLocation": 150,
+      "homeWin": "0"
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 53,
+        "firstName": "Emily",
+        "lastName": "Clark",
+        "jerseyNumber": 26,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/53.jpg"
+      },
+      "onPlayer": {
+        "id": 84,
+        "firstName": "Kati",
+        "lastName": "Tabin",
+        "jerseyNumber": 9,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/84.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "0:39",
+      "xLocation": 32,
+      "yLocation": 258
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "visitingPlayer": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "1:11",
+      "xLocation": 457,
+      "yLocation": 49,
+      "homeWin": "0"
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 253,
+        "firstName": "Nicole",
+        "lastName": "Gosling",
+        "jerseyNumber": 61,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/253.jpg"
+      },
+      "blocker": {
+        "id": 118,
+        "firstName": "Emma",
+        "lastName": "Greco",
+        "jerseyNumber": 25,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/118.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "2",
+        "shortName": null,
+        "longName": "2nd"
+      },
+      "time": "1:32",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 425,
+      "yLocation": 131
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "2:27",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 492,
+      "yLocation": 48
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 101,
+        "firstName": "Alexa",
+        "lastName": "Vasko",
+        "jerseyNumber": 10,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/101.jpg"
+      },
+      "visitingPlayer": {
+        "id": 39,
+        "firstName": "Alexandra",
+        "lastName": "Labelle",
+        "jerseyNumber": 13,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/39.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "2:34",
+      "xLocation": 100,
+      "yLocation": 206,
+      "homeWin": "0"
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 101,
+        "firstName": "Alexa",
+        "lastName": "Vasko",
+        "jerseyNumber": 10,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/101.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "2:35",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 217,
+      "yLocation": 207
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 38,
+        "firstName": "Brooke",
+        "lastName": "Hobson",
+        "jerseyNumber": 11,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/38.jpg"
+      },
+      "onPlayer": {
+        "id": 157,
+        "firstName": "Catherine",
+        "lastName": "Dubois",
+        "jerseyNumber": 28,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/157.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "3:00",
+      "xLocation": 343,
+      "yLocation": 288
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 71,
+        "firstName": "Jocelyne",
+        "lastName": "Larocque",
+        "jerseyNumber": 3,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/71.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "3:16",
+      "isGoal": false,
+      "shotQuality": "Quality on net",
+      "shotType": "Default",
+      "xLocation": 77,
+      "yLocation": 174
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "visitingPlayer": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "3:18",
+      "xLocation": 100,
+      "yLocation": 206,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "3",
+      "player": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "onPlayer": {
+        "id": 223,
+        "firstName": "Ronja",
+        "lastName": "Savolainen",
+        "jerseyNumber": 88,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/223.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "3:30",
+      "xLocation": 110,
+      "yLocation": 285
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 286,
+        "firstName": "Peyton",
+        "lastName": "Hemp",
+        "jerseyNumber": 29,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/286.jpg"
+      },
+      "onPlayer": {
+        "id": 32,
+        "firstName": "Laura",
+        "lastName": "Stacey",
+        "jerseyNumber": 7,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/32.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "3:33",
+      "xLocation": 88,
+      "yLocation": 286
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 42,
+        "firstName": "Abby",
+        "lastName": "Roque",
+        "jerseyNumber": 11,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/42.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "3:49",
+      "isGoal": true,
+      "shotQuality": "Non quality goal",
+      "shotType": "Default",
+      "xLocation": 549,
+      "yLocation": 229
+    }
+  },
+  {
+    "event": "goal",
+    "details": {
+      "game_goal_id": "1672",
+      "team": {
+        "id": 3,
+        "name": "",
+        "city": "",
+        "nickname": "",
+        "abbreviation": "MTL",
+        "logo": ""
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "3:49",
+      "scorerGoalNumber": "3",
+      "scoredBy": {
+        "id": 42,
+        "firstName": "Abby",
+        "lastName": "Roque",
+        "jerseyNumber": 11,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/42.jpg"
+      },
+      "assists": [
+        {
+          "id": 31,
+          "firstName": "Marie-Philip",
+          "lastName": "Poulin",
+          "jerseyNumber": 29,
+          "position": "C",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+        },
+        {
+          "id": 32,
+          "firstName": "Laura",
+          "lastName": "Stacey",
+          "jerseyNumber": 7,
+          "position": "RW",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/32.jpg"
+        }
+      ],
+      "assistNumbers": [
+        "6",
+        "4"
+      ],
+      "properties": {
+        "isPowerPlay": "0",
+        "isShortHanded": "0",
+        "isEmptyNet": "0",
+        "isPenaltyShot": "0",
+        "isInsuranceGoal": "0",
+        "isGameWinningGoal": "1"
+      },
+      "plus_players": [
+        {
+          "id": 32,
+          "firstName": "Laura",
+          "lastName": "Stacey",
+          "jerseyNumber": 7,
+          "position": "RW",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/32.jpg"
+        },
+        {
+          "id": 42,
+          "firstName": "Abby",
+          "lastName": "Roque",
+          "jerseyNumber": 11,
+          "position": "LW",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/42.jpg"
+        },
+        {
+          "id": 31,
+          "firstName": "Marie-Philip",
+          "lastName": "Poulin",
+          "jerseyNumber": 29,
+          "position": "C",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+        },
+        {
+          "id": 51,
+          "firstName": "Amanda",
+          "lastName": "Boulier",
+          "jerseyNumber": 44,
+          "position": "RD",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/51.jpg"
+        },
+        {
+          "id": 253,
+          "firstName": "Nicole",
+          "lastName": "Gosling",
+          "jerseyNumber": 61,
+          "position": "LD",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/253.jpg"
+        }
+      ],
+      "minus_players": [
+        {
+          "id": 242,
+          "firstName": "Rory",
+          "lastName": "Guilday",
+          "jerseyNumber": 5,
+          "position": "LD",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/242.jpg"
+        },
+        {
+          "id": 57,
+          "firstName": "Gabbie",
+          "lastName": "Hughes",
+          "jerseyNumber": 17,
+          "position": "C",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+        },
+        {
+          "id": 53,
+          "firstName": "Emily",
+          "lastName": "Clark",
+          "jerseyNumber": 26,
+          "position": "LW",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/53.jpg"
+        },
+        {
+          "id": 286,
+          "firstName": "Peyton",
+          "lastName": "Hemp",
+          "jerseyNumber": 29,
+          "position": "RW",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/286.jpg"
+        },
+        {
+          "id": 223,
+          "firstName": "Ronja",
+          "lastName": "Savolainen",
+          "jerseyNumber": 88,
+          "position": "RD",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/223.jpg"
+        }
+      ],
+      "xLocation": 549,
+      "yLocation": 229
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "visitingPlayer": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "4:00",
+      "xLocation": 300,
+      "yLocation": 150,
+      "homeWin": "0"
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "4:32",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 502,
+      "yLocation": 49
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "visitingPlayer": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "4:36",
+      "xLocation": 457,
+      "yLocation": 49,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "visitingPlayer": {
+        "id": 39,
+        "firstName": "Alexandra",
+        "lastName": "Labelle",
+        "jerseyNumber": 13,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/39.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "5:13",
+      "xLocation": 457,
+      "yLocation": 206,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 240,
+        "firstName": "Fanuza",
+        "lastName": "Kadirova",
+        "jerseyNumber": 71,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/240.jpg"
+      },
+      "blocker": {
+        "id": 320,
+        "firstName": "Nadia",
+        "lastName": "Mattivi",
+        "jerseyNumber": 93,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/320.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "2",
+        "shortName": null,
+        "longName": "2nd"
+      },
+      "time": "6:18",
+      "shotQuality": "Quality blocked",
+      "shotType": "Default",
+      "xLocation": 99,
+      "yLocation": 108
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "visitingPlayer": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "6:18",
+      "xLocation": 100,
+      "yLocation": 206,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 79,
+        "firstName": "Maggie",
+        "lastName": "Flaherty",
+        "jerseyNumber": 91,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/79.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "6:28",
+      "isGoal": false,
+      "shotQuality": "Quality on net",
+      "shotType": "Default",
+      "xLocation": 461,
+      "yLocation": 155
+    }
+  },
+  {
+    "event": "penalty",
+    "details": {
+      "game_penalty_id": "2204",
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "6:38",
+      "againstTeam": {
+        "id": 3,
+        "name": "",
+        "city": "",
+        "nickname": "",
+        "abbreviation": "MTL",
+        "logo": ""
+      },
+      "minutes": "2.00",
+      "description": "Slashing",
+      "ruleNumber": "",
+      "takenBy": {
+        "id": 84,
+        "firstName": "Kati",
+        "lastName": "Tabin",
+        "jerseyNumber": 9,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/84.jpg"
+      },
+      "servedBy": {
+        "id": 84,
+        "firstName": "Kati",
+        "lastName": "Tabin",
+        "jerseyNumber": 9,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/84.jpg"
+      },
+      "isPowerPlay": true,
+      "isBench": false
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "visitingPlayer": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "6:38",
+      "xLocation": 100,
+      "yLocation": 206,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 240,
+        "firstName": "Fanuza",
+        "lastName": "Kadirova",
+        "jerseyNumber": 71,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/240.jpg"
+      },
+      "blocker": {
+        "id": 98,
+        "firstName": "Maureen",
+        "lastName": "Murphy",
+        "jerseyNumber": 21,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/98.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "2",
+        "shortName": null,
+        "longName": "2nd"
+      },
+      "time": "6:48",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 179,
+      "yLocation": 51
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 240,
+        "firstName": "Fanuza",
+        "lastName": "Kadirova",
+        "jerseyNumber": 71,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/240.jpg"
+      },
+      "blocker": {
+        "id": 98,
+        "firstName": "Maureen",
+        "lastName": "Murphy",
+        "jerseyNumber": 21,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/98.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "2",
+        "shortName": null,
+        "longName": "2nd"
+      },
+      "time": "7:02",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 132,
+      "yLocation": 58
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 223,
+        "firstName": "Ronja",
+        "lastName": "Savolainen",
+        "jerseyNumber": 88,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/223.jpg"
+      },
+      "blocker": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "2",
+        "shortName": null,
+        "longName": "2nd"
+      },
+      "time": "7:07",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 191,
+      "yLocation": 147
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "3",
+      "player": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "onPlayer": {
+        "id": 53,
+        "firstName": "Emily",
+        "lastName": "Clark",
+        "jerseyNumber": 26,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/53.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "7:26",
+      "xLocation": 36,
+      "yLocation": 27
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 71,
+        "firstName": "Jocelyne",
+        "lastName": "Larocque",
+        "jerseyNumber": 3,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/71.jpg"
+      },
+      "blocker": {
+        "id": 32,
+        "firstName": "Laura",
+        "lastName": "Stacey",
+        "jerseyNumber": 7,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/32.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "2",
+        "shortName": null,
+        "longName": "2nd"
+      },
+      "time": "7:45",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 194,
+      "yLocation": 189
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "visitingPlayer": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "7:52",
+      "xLocation": 100,
+      "yLocation": 206,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 101,
+        "firstName": "Alexa",
+        "lastName": "Vasko",
+        "jerseyNumber": 10,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/101.jpg"
+      },
+      "visitingPlayer": {
+        "id": 39,
+        "firstName": "Alexandra",
+        "lastName": "Labelle",
+        "jerseyNumber": 13,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/39.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "8:44",
+      "xLocation": 300,
+      "yLocation": 150,
+      "homeWin": "0"
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 157,
+        "firstName": "Catherine",
+        "lastName": "Dubois",
+        "jerseyNumber": 28,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/157.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "9:05",
+      "isGoal": false,
+      "shotQuality": "Quality on net",
+      "shotType": "Default",
+      "xLocation": 537,
+      "yLocation": 158
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "3",
+      "player": {
+        "id": 320,
+        "firstName": "Nadia",
+        "lastName": "Mattivi",
+        "jerseyNumber": 93,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/320.jpg"
+      },
+      "onPlayer": {
+        "id": 72,
+        "firstName": "Rebecca",
+        "lastName": "Leslie",
+        "jerseyNumber": 37,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/72.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "9:29",
+      "xLocation": 110,
+      "yLocation": 8
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 53,
+        "firstName": "Emily",
+        "lastName": "Clark",
+        "jerseyNumber": 26,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/53.jpg"
+      },
+      "onPlayer": {
+        "id": 98,
+        "firstName": "Maureen",
+        "lastName": "Murphy",
+        "jerseyNumber": 21,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/98.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "10:22",
+      "xLocation": 60,
+      "yLocation": 291
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "3",
+      "player": {
+        "id": 42,
+        "firstName": "Abby",
+        "lastName": "Roque",
+        "jerseyNumber": 11,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/42.jpg"
+      },
+      "onPlayer": {
+        "id": 286,
+        "firstName": "Peyton",
+        "lastName": "Hemp",
+        "jerseyNumber": 29,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/286.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "10:46",
+      "xLocation": 342,
+      "yLocation": 3
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 242,
+        "firstName": "Rory",
+        "lastName": "Guilday",
+        "jerseyNumber": 5,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/242.jpg"
+      },
+      "onPlayer": {
+        "id": 42,
+        "firstName": "Abby",
+        "lastName": "Roque",
+        "jerseyNumber": 11,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/42.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "11:04",
+      "xLocation": 252,
+      "yLocation": 39
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 38,
+        "firstName": "Brooke",
+        "lastName": "Hobson",
+        "jerseyNumber": 11,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/38.jpg"
+      },
+      "onPlayer": {
+        "id": 201,
+        "firstName": "Lina",
+        "lastName": "Ljungblom",
+        "jerseyNumber": 25,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/201.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "11:44",
+      "xLocation": 584,
+      "yLocation": 254
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 241,
+        "firstName": "Sarah",
+        "lastName": "Wozniewicz",
+        "jerseyNumber": 23,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/241.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "13:34",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 160,
+      "yLocation": 221
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "visitingPlayer": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "13:34",
+      "xLocation": 100,
+      "yLocation": 206,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 53,
+        "firstName": "Emily",
+        "lastName": "Clark",
+        "jerseyNumber": 26,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/53.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "14:14",
+      "isGoal": false,
+      "shotQuality": "Quality on net",
+      "shotType": "Default",
+      "xLocation": 143,
+      "yLocation": 159
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 71,
+        "firstName": "Jocelyne",
+        "lastName": "Larocque",
+        "jerseyNumber": 3,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/71.jpg"
+      },
+      "onPlayer": {
+        "id": 253,
+        "firstName": "Nicole",
+        "lastName": "Gosling",
+        "jerseyNumber": 61,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/253.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "15:23",
+      "xLocation": 450,
+      "yLocation": 259
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 83,
+        "firstName": "Erin",
+        "lastName": "Ambrose",
+        "jerseyNumber": 23,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/83.jpg"
+      },
+      "blocker": {
+        "id": 241,
+        "firstName": "Sarah",
+        "lastName": "Wozniewicz",
+        "jerseyNumber": 23,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/241.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "2",
+        "shortName": null,
+        "longName": "2nd"
+      },
+      "time": "15:40",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 441,
+      "yLocation": 257
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "onPlayer": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "15:42",
+      "xLocation": 215,
+      "yLocation": 235
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 157,
+        "firstName": "Catherine",
+        "lastName": "Dubois",
+        "jerseyNumber": 28,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/157.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "16:09",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 556,
+      "yLocation": 128
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "visitingPlayer": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "16:09",
+      "xLocation": 457,
+      "yLocation": 49,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "visitingPlayer": {
+        "id": 42,
+        "firstName": "Abby",
+        "lastName": "Roque",
+        "jerseyNumber": 11,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/42.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "16:17",
+      "xLocation": 203,
+      "yLocation": 27,
+      "homeWin": "0"
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "visitingPlayer": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "16:21",
+      "xLocation": 203,
+      "yLocation": 27,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 223,
+        "firstName": "Ronja",
+        "lastName": "Savolainen",
+        "jerseyNumber": 88,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/223.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "16:25",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 264,
+      "yLocation": 213
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "3",
+      "player": {
+        "id": 79,
+        "firstName": "Maggie",
+        "lastName": "Flaherty",
+        "jerseyNumber": 91,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/79.jpg"
+      },
+      "onPlayer": {
+        "id": 53,
+        "firstName": "Emily",
+        "lastName": "Clark",
+        "jerseyNumber": 26,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/53.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "16:44",
+      "xLocation": 34,
+      "yLocation": 35
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 241,
+        "firstName": "Sarah",
+        "lastName": "Wozniewicz",
+        "jerseyNumber": 23,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/241.jpg"
+      },
+      "blocker": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "2",
+        "shortName": null,
+        "longName": "2nd"
+      },
+      "time": "17:16",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 173,
+      "yLocation": 147
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 241,
+        "firstName": "Sarah",
+        "lastName": "Wozniewicz",
+        "jerseyNumber": 23,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/241.jpg"
+      },
+      "onPlayer": {
+        "id": 199,
+        "firstName": "Dara",
+        "lastName": "Greig",
+        "jerseyNumber": 17,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/199.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "17:20",
+      "xLocation": 236,
+      "yLocation": 289
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 217,
+        "firstName": "Taylor",
+        "lastName": "House",
+        "jerseyNumber": 22,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/217.jpg"
+      },
+      "onPlayer": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "17:31",
+      "xLocation": 212,
+      "yLocation": 283
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 101,
+        "firstName": "Alexa",
+        "lastName": "Vasko",
+        "jerseyNumber": 10,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/101.jpg"
+      },
+      "visitingPlayer": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "17:58",
+      "xLocation": 457,
+      "yLocation": 49,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 192,
+        "firstName": "Brooke",
+        "lastName": "McQuigge",
+        "jerseyNumber": 27,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/192.jpg"
+      },
+      "onPlayer": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "18:23",
+      "xLocation": 118,
+      "yLocation": 9
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 32,
+        "firstName": "Laura",
+        "lastName": "Stacey",
+        "jerseyNumber": 7,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/32.jpg"
+      },
+      "blocker": {
+        "id": 242,
+        "firstName": "Rory",
+        "lastName": "Guilday",
+        "jerseyNumber": 5,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/242.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "2",
+        "shortName": null,
+        "longName": "2nd"
+      },
+      "time": "19:25",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 448,
+      "yLocation": 273
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "visitingPlayer": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "19:34",
+      "xLocation": 457,
+      "yLocation": 49,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "3",
+      "player": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "onPlayer": {
+        "id": 118,
+        "firstName": "Emma",
+        "lastName": "Greco",
+        "jerseyNumber": 25,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/118.jpg"
+      },
+      "period": {
+        "id": "2",
+        "shortName": "2",
+        "longName": "2nd"
+      },
+      "time": "19:47",
+      "xLocation": 325,
+      "yLocation": 279
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "visitingPlayer": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "0:00",
+      "xLocation": 300,
+      "yLocation": 150,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "visitingPlayer": {
+        "id": 61,
+        "firstName": "Hayley",
+        "lastName": "Scamurra",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/61.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "0:48",
+      "xLocation": 500,
+      "yLocation": 94,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "visitingPlayer": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "0:57",
+      "xLocation": 500,
+      "yLocation": 94,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "visitingPlayer": {
+        "id": 39,
+        "firstName": "Alexandra",
+        "lastName": "Labelle",
+        "jerseyNumber": 13,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/39.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "1:28",
+      "xLocation": 500,
+      "yLocation": 94,
+      "homeWin": "0"
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "onPlayer": {
+        "id": 157,
+        "firstName": "Catherine",
+        "lastName": "Dubois",
+        "jerseyNumber": 28,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/157.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "1:55",
+      "xLocation": 477,
+      "yLocation": 284
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 242,
+        "firstName": "Rory",
+        "lastName": "Guilday",
+        "jerseyNumber": 5,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/242.jpg"
+      },
+      "blocker": {
+        "id": 157,
+        "firstName": "Catherine",
+        "lastName": "Dubois",
+        "jerseyNumber": 28,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/157.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "3",
+        "shortName": null,
+        "longName": "3rd"
+      },
+      "time": "2:16",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 207,
+      "yLocation": 59
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "3",
+      "player": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "onPlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "2:27",
+      "xLocation": 81,
+      "yLocation": 285
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 286,
+        "firstName": "Peyton",
+        "lastName": "Hemp",
+        "jerseyNumber": 29,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/286.jpg"
+      },
+      "onPlayer": {
+        "id": 79,
+        "firstName": "Maggie",
+        "lastName": "Flaherty",
+        "jerseyNumber": 91,
+        "position": "RD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/79.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "2:47",
+      "xLocation": 8,
+      "yLocation": 150
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "blocker": {
+        "id": 98,
+        "firstName": "Maureen",
+        "lastName": "Murphy",
+        "jerseyNumber": 21,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/98.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "3",
+        "shortName": null,
+        "longName": "3rd"
+      },
+      "time": "4:21",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 164,
+      "yLocation": 129
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "visitingPlayer": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "4:42",
+      "xLocation": 143,
+      "yLocation": 251,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "hit",
+    "details": {
+      "teamId": "5",
+      "player": {
+        "id": 242,
+        "firstName": "Rory",
+        "lastName": "Guilday",
+        "jerseyNumber": 5,
+        "position": "LD",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/242.jpg"
+      },
+      "onPlayer": {
+        "id": 42,
+        "firstName": "Abby",
+        "lastName": "Roque",
+        "jerseyNumber": 11,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/42.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "5:18",
+      "xLocation": 490,
+      "yLocation": 289
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 128,
+        "firstName": "Kaitlin",
+        "lastName": "Willoughby",
+        "jerseyNumber": 19,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/128.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "5:20",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 409,
+      "yLocation": 284
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "visitingPlayer": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "5:20",
+      "xLocation": 500,
+      "yLocation": 94,
+      "homeWin": "0"
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "visitingPlayer": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "7:45",
+      "xLocation": 143,
+      "yLocation": 251,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "penalty",
+    "details": {
+      "game_penalty_id": "2205",
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "8:11",
+      "againstTeam": {
+        "id": 3,
+        "name": "",
+        "city": "",
+        "nickname": "",
+        "abbreviation": "MTL",
+        "logo": ""
+      },
+      "minutes": "2.00",
+      "description": "Inter. on Goaltender",
+      "ruleNumber": "",
+      "takenBy": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "servedBy": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "isPowerPlay": true,
+      "isBench": false
+    }
+  },
+  {
+    "event": "blocked_shot",
+    "details": {
+      "shooter": {
+        "id": 240,
+        "firstName": "Fanuza",
+        "lastName": "Kadirova",
+        "jerseyNumber": 71,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/240.jpg"
+      },
+      "blocker": {
+        "id": 42,
+        "firstName": "Abby",
+        "lastName": "Roque",
+        "jerseyNumber": 11,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/42.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "3",
+        "shortName": null,
+        "longName": "3rd"
+      },
+      "time": "8:34",
+      "shotQuality": "Non quality blocked",
+      "shotType": "Default",
+      "xLocation": 213,
+      "yLocation": 153
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 53,
+        "firstName": "Emily",
+        "lastName": "Clark",
+        "jerseyNumber": 26,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/53.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "9:18",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 51,
+      "yLocation": 113
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 57,
+        "firstName": "Gabbie",
+        "lastName": "Hughes",
+        "jerseyNumber": 17,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "9:19",
+      "isGoal": false,
+      "shotQuality": "Quality on net",
+      "shotType": "Default",
+      "xLocation": 68,
+      "yLocation": 135
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "9:20",
+      "isGoal": false,
+      "shotQuality": "Quality on net",
+      "shotType": "Default",
+      "xLocation": 61,
+      "yLocation": 152
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 42,
+        "firstName": "Abby",
+        "lastName": "Roque",
+        "jerseyNumber": 11,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/42.jpg"
+      },
+      "goalie": {
+        "id": 222,
+        "firstName": "Gwyneth",
+        "lastName": "Philips",
+        "jerseyNumber": 33,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/222.jpg"
+      },
+      "shooterTeamId": "3",
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "9:58",
+      "isGoal": true,
+      "shotQuality": "Quality goal",
+      "shotType": "Default",
+      "xLocation": 548,
+      "yLocation": 123
+    }
+  },
+  {
+    "event": "goal",
+    "details": {
+      "game_goal_id": "1673",
+      "team": {
+        "id": 3,
+        "name": "",
+        "city": "",
+        "nickname": "",
+        "abbreviation": "MTL",
+        "logo": ""
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "9:58",
+      "scorerGoalNumber": "4",
+      "scoredBy": {
+        "id": 42,
+        "firstName": "Abby",
+        "lastName": "Roque",
+        "jerseyNumber": 11,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/42.jpg"
+      },
+      "assists": [
+        {
+          "id": 32,
+          "firstName": "Laura",
+          "lastName": "Stacey",
+          "jerseyNumber": 7,
+          "position": "RW",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/32.jpg"
+        }
+      ],
+      "assistNumbers": [
+        "5",
+        "0"
+      ],
+      "properties": {
+        "isPowerPlay": "0",
+        "isShortHanded": "1",
+        "isEmptyNet": "0",
+        "isPenaltyShot": "0",
+        "isInsuranceGoal": "1",
+        "isGameWinningGoal": "0"
+      },
+      "plus_players": [
+        {
+          "id": 42,
+          "firstName": "Abby",
+          "lastName": "Roque",
+          "jerseyNumber": 11,
+          "position": "LW",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/42.jpg"
+        },
+        {
+          "id": 83,
+          "firstName": "Erin",
+          "lastName": "Ambrose",
+          "jerseyNumber": 23,
+          "position": "RD",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/83.jpg"
+        },
+        {
+          "id": 201,
+          "firstName": "Lina",
+          "lastName": "Ljungblom",
+          "jerseyNumber": 25,
+          "position": "LW",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/201.jpg"
+        },
+        {
+          "id": 253,
+          "firstName": "Nicole",
+          "lastName": "Gosling",
+          "jerseyNumber": 61,
+          "position": "LD",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/253.jpg"
+        }
+      ],
+      "minus_players": [
+        {
+          "id": 71,
+          "firstName": "Jocelyne",
+          "lastName": "Larocque",
+          "jerseyNumber": 3,
+          "position": "LD",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/71.jpg"
+        },
+        {
+          "id": 57,
+          "firstName": "Gabbie",
+          "lastName": "Hughes",
+          "jerseyNumber": 17,
+          "position": "C",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/57.jpg"
+        },
+        {
+          "id": 58,
+          "firstName": "Brianne",
+          "lastName": "Jenner",
+          "jerseyNumber": 19,
+          "position": "C",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+        },
+        {
+          "id": 53,
+          "firstName": "Emily",
+          "lastName": "Clark",
+          "jerseyNumber": 26,
+          "position": "LW",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/53.jpg"
+        },
+        {
+          "id": 72,
+          "firstName": "Rebecca",
+          "lastName": "Leslie",
+          "jerseyNumber": 37,
+          "position": "LW",
+          "birthDate": "",
+          "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/72.jpg"
+        }
+      ],
+      "xLocation": 548,
+      "yLocation": 123
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "visitingPlayer": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "9:58",
+      "xLocation": 300,
+      "yLocation": 150,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "visitingPlayer": {
+        "id": 274,
+        "firstName": "Nat\u00e1lie",
+        "lastName": "Ml\u00fdnkov\u00e1",
+        "jerseyNumber": 96,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/274.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "10:25",
+      "xLocation": 247,
+      "yLocation": 73,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "10:31",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 131,
+      "yLocation": 40
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 58,
+        "firstName": "Brianne",
+        "lastName": "Jenner",
+        "jerseyNumber": 19,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/58.jpg"
+      },
+      "visitingPlayer": {
+        "id": 31,
+        "firstName": "Marie-Philip",
+        "lastName": "Poulin",
+        "jerseyNumber": 29,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/31.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "10:33",
+      "xLocation": 143,
+      "yLocation": 94,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 72,
+        "firstName": "Rebecca",
+        "lastName": "Leslie",
+        "jerseyNumber": 37,
+        "position": "LW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/72.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "11:17",
+      "isGoal": false,
+      "shotQuality": "Quality on net",
+      "shotType": "Default",
+      "xLocation": 135,
+      "yLocation": 138
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 115,
+        "firstName": "Michela",
+        "lastName": "Cava",
+        "jerseyNumber": 86,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/115.jpg"
+      },
+      "visitingPlayer": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "11:30",
+      "xLocation": 300,
+      "yLocation": 150,
+      "homeWin": "1"
+    }
+  },
+  {
+    "event": "shot",
+    "details": {
+      "shooter": {
+        "id": 88,
+        "firstName": "Kate\u0159ina",
+        "lastName": "Mr\u00e1zov\u00e1",
+        "jerseyNumber": 16,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/88.jpg"
+      },
+      "goalie": {
+        "id": 28,
+        "firstName": "Ann-Ren\u00e9e",
+        "lastName": "Desbiens",
+        "jerseyNumber": 35,
+        "position": "G",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/28.jpg"
+      },
+      "shooterTeamId": "5",
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "11:33",
+      "isGoal": false,
+      "shotQuality": "Non quality on net",
+      "shotType": "Default",
+      "xLocation": 165,
+      "yLocation": 70
+    }
+  },
+  {
+    "event": "faceoff",
+    "details": {
+      "homePlayer": {
+        "id": 115,
+        "firstName": "Michela",
+        "lastName": "Cava",
+        "jerseyNumber": 86,
+        "position": "RW",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/115.jpg"
+      },
+      "visitingPlayer": {
+        "id": 4,
+        "firstName": "Shiann",
+        "lastName": "Darkangelo",
+        "jerseyNumber": 27,
+        "position": "C",
+        "birthDate": "",
+        "playerImageURL": "https://assets.leaguestat.com/pwhl/120x160/4.jpg"
+      },
+      "period": {
+        "id": "3",
+        "shortName": "3",
+        "longName": "3rd"
+      },
+      "time": "11:34",
+      "xLocation": 300,
+      "yLocation": 150,
+      "homeWin": "1"
+    }
+  }
+]
