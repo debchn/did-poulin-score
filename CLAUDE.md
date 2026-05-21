@@ -58,7 +58,7 @@ https://lscluster.hockeytech.com/feed/index.php
   &site_id=0          (sometimes present)
   &callback=<jsonp>   (only when calling as JSONP)
 ```
-The `key` value is the same one the public PWHL site uses. Calling server-side from a Cloudflare Worker means we can skip the JSONP wrapper entirely and request JSON directly (omit the `callback` param, then `JSON.parse` the response body — or strip the `angular.callbacks._XX(` wrapper if it's still returned).
+The `key` value is the same one the public PWHL site uses. Calling server-side from a Cloudflare Worker, omit the `callback` param — but **the API still wraps the response body in bare parentheses** regardless: `({...})` for object endpoints, `([...])` for array endpoints. Strip the outer `(` and `)` before parsing: `JSON.parse(body.slice(1, -1))`.
 
 **The official site polls every 30 seconds.** Match that cadence, or go a bit faster.
 
